@@ -4,7 +4,7 @@
 
 ---
 
-for a quick start go to [replit](https://replit.com/) and create a new python repl.      
+for a quick start copy the project into a new python repl, [replit](https://replit.com/).        
 add your links to ``urls [<links>]``in db-uploader-sqlite.py.    
 run db-uploader-sqlite.py to generate the database.      
 now run main.py.     
